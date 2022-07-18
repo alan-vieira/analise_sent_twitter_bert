@@ -23,7 +23,17 @@ Você pode acessar o [código fonte do projeto](https://github.com/alan-vieira/a
 Após baixado, para o funcionamento correto da aplicação as seguintes dependêcias deverão ser instaladas.
 
 - `pandas`
+- `matplotlib`
+- `seaborn`
 - `nltk`
+- `stopwords`
+- `re (regex)`
+- `setuptools wheel`
+- `spacy`
+- `pt_core_news_sm (corpus português para spacy)`
+- `simplemma`
+- `transformers`
+- `torch`
 
 ## Autor
 
