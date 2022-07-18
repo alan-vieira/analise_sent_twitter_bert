@@ -17,7 +17,7 @@ Treinamento por Transfer Learning, para análise de sentimento realizada por red
 
 ## Acesso ao projeto
 
-Você pode acessar o [código fonte do projeto](https://github.com/alan-vieira/treinador_analise_sent_model_balance_dados/blob/main/analise_de_sentimentos_twitter.ipynb) ou [baixá-lo](https://github.com/alan-vieira/treinador_analise_sent_model_balance_dados/archive/refs/heads/main.zip).
+Você pode acessar o [código fonte do projeto](https://github.com/alan-vieira/analise_sent_twitter_bert/blob/main/an_sent_BERTimbau_lematizacao.ipynb) ou [baixá-lo](https://github.com/alan-vieira/analise_sent_twitter_bert/archive/refs/heads/main.zip).
 
 ## Abrir e rodar o projeto
 Após baixado, para o funcionamento correto da aplicação as seguintes dependêcias deverão ser instaladas.
