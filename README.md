@@ -4,8 +4,8 @@ Treinamento por Transfer Learning, para análise de sentimento realizada por red
 
 ## Funcionalidades do projeto
 
-- `Funcionalidade 1`: Treimanto do modelo utilizando técnica de trasferência de aprendizado (transfer learning), para realização de uma ajuste fino (fine-tuning) para o modelo realizar a tarefa de classificação.
-- `Funcionalidade 2`:
+- `Funcionalidade 1`: Treimanto do modelo utilizando técnica de trasferência de aprendizado (transfer learning), para realização de uma ajuste fino (fine-tuning) com o intuito de torna-lo apto para de classificação de sentimento.
+- `Funcionalidade 2`: Geração de métricas para análise do melhor modelo treinado.
 
 ## Aplicação
 
@@ -14,6 +14,8 @@ Treinamento por Transfer Learning, para análise de sentimento realizada por red
 - `Jupyter Notebook`
 - `Python`
 - `Sklearn`
+- `BERT`
+- `Pytorch`
 
 ## Acesso ao projeto
 
