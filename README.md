@@ -28,13 +28,7 @@ Após baixado, para o funcionamento correto da aplicação as seguintes dependê
 - `pandas`
 - `matplotlib`
 - `seaborn`
-- `nltk`
-- `stopwords`
 - `re (regex)`
-- `setuptools wheel`
-- `spacy`
-- `pt_core_news_sm (corpus português para spacy)`
-- `simplemma`
 - `transformers`
 - `torch`
 
