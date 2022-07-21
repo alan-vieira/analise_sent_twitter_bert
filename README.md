@@ -6,7 +6,7 @@ Treinamento por Transfer Learning, para análise de sentimento realizada por red
 
 - `Funcionalidade 1`: Treimanto do modelo utilizando técnica de trasferência de aprendizado (transfer learning), para realização de uma ajuste fino (fine-tuning) com o intuito de torna-lo apto para de classificação de sentimento.
 - `Funcionalidade 2`: Geração de métricas para análise do melhor modelo treinado.
-- `Funcionalidade 3`: Comparação de salvamento do melhor modelo, baseado nas métricas f1-score e acurácia.
+- `Funcionalidade 3`: Comparação de salvamento do melhor modelo, baseado nas métricas f1-score (pois se trata de um conjunto desbalanceado).
 
 ## Aplicação
 
